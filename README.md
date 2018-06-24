@@ -33,7 +33,7 @@ This is yet not the full fledge project for the Library management  System, but 
 2.	The quantity of the book remains unchanged after issuing the book. So there is the need of the new function integration with trans class through which we can the number of the items in the code.
 3.	The issue data and return date does not generate on its own for the everyday u should change it manually.
 
-# Contributors
+# Project Contributors  
 Following is a list of contributors:
 1.	Rahul Chandra 
 2.	Subhash Jha (Subhash Jha)
