@@ -36,4 +36,4 @@ This is yet not the full fledge project for the Library management  System, but 
 # Contributors
 Following is a list of contributors:
 1.	Rahul Chandra 
-2.	Subhash Jha(Subhash Jha)
+2.	Subhash Jha (Subhash Jha)
