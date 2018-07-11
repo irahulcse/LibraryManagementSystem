@@ -34,5 +34,5 @@ This is yet not the full fledge project for the Library management  System, but 
 3.	The issue data and return date does not generate on its own for the everyday u should change it manually.
 
 # Project Contributors  
-1.	Rahul Chandra 
-2.	Subhash Jha (Subhash Jha)
+1.	[Rahul Chandra](https://github.com/irahulcse)
+2.	[Subhash Jha](https://github.com/irahulcse)
