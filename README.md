@@ -13,8 +13,8 @@ Its executable file (.EXE), which do not require any specially installation. It'
 
 
 # Development
-This a small project developed as a part of my first B Tech program. It usages Turbo C++/Dev++ as IDE.
-Most code is self explanatory. Three primary languages - C++. 
+This a small project developed as a part of my first year  B Tech program. It usages Turbo C++/Dev++ as IDE.
+Most code is self explanatory. The primary languages - C++. 
 The flow of the system is :
 1.	It can be run in Windows/DOS, since it is .EXE file.
 2.	Master and transaction files are created automatically in the environment in which it is developed.
