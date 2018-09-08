@@ -1,5 +1,5 @@
-# LibraryManagementSystem
-A Library management system, purely developed in C++. It facilitates user to perform all the operation basis on the user choices, numerically. 
+# Hire Kindle
+Hire Kindle, purely developed in C++. It facilitates user to perform all the operation basis on the user choices, numerically. 
 
 # What it does !!
 It is a simple C++ project which demonstrates end to end library management system. It is basically demonstrating usages of OOPs concept, where no external database used. All the input and output is through binary text files. 
